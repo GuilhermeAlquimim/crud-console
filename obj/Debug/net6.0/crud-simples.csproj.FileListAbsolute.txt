@@ -1,0 +1,14 @@
+C:\dev\crud-simples\bin\Debug\net6.0\crud-simples.exe
+C:\dev\crud-simples\bin\Debug\net6.0\crud-simples.deps.json
+C:\dev\crud-simples\bin\Debug\net6.0\crud-simples.runtimeconfig.json
+C:\dev\crud-simples\bin\Debug\net6.0\crud-simples.dll
+C:\dev\crud-simples\bin\Debug\net6.0\crud-simples.pdb
+C:\dev\crud-simples\obj\Debug\net6.0\crud-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\crud-simples\obj\Debug\net6.0\crud-simples.AssemblyInfoInputs.cache
+C:\dev\crud-simples\obj\Debug\net6.0\crud-simples.AssemblyInfo.cs
+C:\dev\crud-simples\obj\Debug\net6.0\crud-simples.csproj.CoreCompileInputs.cache
+C:\dev\crud-simples\obj\Debug\net6.0\crud-simples.dll
+C:\dev\crud-simples\obj\Debug\net6.0\refint\crud-simples.dll
+C:\dev\crud-simples\obj\Debug\net6.0\crud-simples.pdb
+C:\dev\crud-simples\obj\Debug\net6.0\crud-simples.genruntimeconfig.cache
+C:\dev\crud-simples\obj\Debug\net6.0\ref\crud-simples.dll
